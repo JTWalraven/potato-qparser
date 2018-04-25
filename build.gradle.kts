@@ -7,6 +7,9 @@ apply {
 
 repositories {
     mavenCentral()
+    maven {
+        setUrl("http://maven.restlet.org")
+    }
 }
 
 dependencies {
