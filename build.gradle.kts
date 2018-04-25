@@ -1,4 +1,4 @@
-group = "com.jtechdev"
+group = "com.jtwalraven"
 version = "1.0-SNAPSHOT"
 
 apply {
