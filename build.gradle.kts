@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    compile("org.parboiled", "parboiled-java", "1.1.8")
+    compile("org.apache.solr", "solr-core", "5.5.5")
     testCompile("junit", "junit", "4.12")
 }
 
